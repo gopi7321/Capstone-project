@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/out-tsc",
+    "target": "ES2022",
+    "useDefineForClassFields": false,
+    "module": "ES2022",
+    "moduleResolution": "node",
+    "lib": [
+      "ES2022",
+      "DOM"
+    ],
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "types": []
+  }
+}
